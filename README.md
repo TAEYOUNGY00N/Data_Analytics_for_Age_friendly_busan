@@ -31,9 +31,4 @@
 - 국내외 논문
 
 ## 관련 용어
-[로케이션 인텔리젼스](https://www.esri.com/en-us/location-intelligence)(LI: Location Intelligence): 지리공간 데이터(geospatial data)와 비지니스 데이터를 결합하여 새로운 인사이트(insight)를 발굴하는 과정을 의미합니다. 동일한 용어로 
-
-시니어 센터/노인복지시설
-
-* * *
-
+[로케이션 인텔리젼스](https://www.esri.com/en-us/location-intelligence)(LI: Location Intelligence): 공간 정보 데이터의 시각화 및 분석하여 제공하며 인구 통계, 교툥, 날씨와 같은 데이터 레이어를 스마트 맵 또는 대시보드에 추가하여, 이벤트 발생 위치를 식별하고 이벤트 발생 이유를 이해하며 원인에 대한 통찰력을 확보할 수 있는 도구.
